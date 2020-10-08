@@ -19,8 +19,8 @@ scikit-learn
 
 ## Demonstration
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![](/images/demo.png)
+
 
 
 
